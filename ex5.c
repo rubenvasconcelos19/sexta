@@ -21,7 +21,7 @@ int main(void){
         case 11:
         case 12:
 
-        printf(" Nome: %s \n Idade: %d \n Equipas disponíveis: A, B \n", nome, idade );
+        printf(" Nome: %s \n Idade: %d \n Equipas disponíveis: A, B \n", nome, idade);
 
         break;
 
